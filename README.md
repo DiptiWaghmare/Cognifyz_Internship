@@ -1,12 +1,12 @@
 # Cognifyz_Internship
 
-# Task 1 : Predicting Restaurant Rating
+**Task 1 : Predicting Restaurant Rating**
 
-# Objective:
+**Objective:**
 Build a machine learning model to predict the
 aggregate rating of a restaurant based on other features.
 
-# Steps:
+**Steps:**
 Preprocess the dataset by handling missing values,
 encoding categorical variables, and splitting the data
 into training and testing sets.
