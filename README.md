@@ -1,10 +1,12 @@
 # Cognifyz_Internship
 
-**Task 1 : Predicting Restaurant Rating**
-****Objective: Build a machine learning model to predict the
+# Task 1 : Predicting Restaurant Rating
+
+# Objective:
+Build a machine learning model to predict the
 aggregate rating of a restaurant based on other features.
 
-****Steps:
+# Steps:
 Preprocess the dataset by handling missing values,
 encoding categorical variables, and splitting the data
 into training and testing sets.
@@ -21,10 +23,12 @@ influential features affecting restaurant ratings.
 
 
 **Task 2 : Restaurant Recommendation**
-****Objective: Create a restaurant recommendation
+
+# Objective:
+Create a restaurant recommendation
 system based on user preferences.
 
-****Steps:
+# Steps:
 Preprocess the dataset by handling missing
 values and encoding categorical variables.
 
@@ -41,10 +45,12 @@ providing sample user preferences and
 evaluating the quality of recommendations.
 
 **Task 3 : Cuisine Classification**
-****Objective: Develop a machine learning model to
+
+# Objective: 
+Develop a machine learning model to
 classify restaurants based on their cuisines.
 
-****Steps:
+# Steps:
 Preprocess the dataset by handling missing values
 and encoding categorical variables.
 
@@ -62,10 +68,12 @@ cuisines and identify any challenges or biases.
 
 
 **Task 4 : Location-Based Analysis**
-****Objective: Perform a geographical analysis of the
+
+# Objective: 
+Perform a geographical analysis of the
 restaurants in the dataset.
 
-****Steps:
+# Steps:
 Explore the latitude and longitude coordinates of
 the restaurants and visualize their distribution on a
 map.
