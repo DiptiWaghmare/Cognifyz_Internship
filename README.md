@@ -24,11 +24,11 @@ influential features affecting restaurant ratings.
 
 **Task 2 : Restaurant Recommendation**
 
-# Objective:
+**Objective:**
 Create a restaurant recommendation
 system based on user preferences.
 
-# Steps:
+**Steps:**
 Preprocess the dataset by handling missing
 values and encoding categorical variables.
 
@@ -46,11 +46,11 @@ evaluating the quality of recommendations.
 
 **Task 3 : Cuisine Classification**
 
-# Objective: 
+**Objective:**
 Develop a machine learning model to
 classify restaurants based on their cuisines.
 
-# Steps:
+**Steps:**
 Preprocess the dataset by handling missing values
 and encoding categorical variables.
 
@@ -69,11 +69,11 @@ cuisines and identify any challenges or biases.
 
 **Task 4 : Location-Based Analysis**
 
-# Objective: 
+**Objective:**
 Perform a geographical analysis of the
 restaurants in the dataset.
 
-# Steps:
+**Steps:**
 Explore the latitude and longitude coordinates of
 the restaurants and visualize their distribution on a
 map.
